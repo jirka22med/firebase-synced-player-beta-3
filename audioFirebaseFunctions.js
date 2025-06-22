@@ -3,13 +3,13 @@
 
 // !!! Zde je tvůj konfigurační objekt, který jsi mi poslal !!!
 const firebaseConfig = {
-    apiKey: "AIzaSyCxO2BdPLkvRW9q3tZTW5J39pjjAoR-9Sk", // Tvoje API Key
-    authDomain: "audio-prehravac-v-3.firebaseapp.com", // Tvoje Auth Domain
-    projectId: "audio-prehravac-v-3", // Tvoje Project ID
-    storageBucket: "audio-prehravac-v-3.firebasestorage.app", // Tvoje Storage Bucket
-    messagingSenderId: "343140348126", // Tvoje Messaging Sender ID
-    appId: "1:343140348126:web:c61dc969efb6dcb547524f" // Tvoje App ID
-    //measurementId: "G-6QSYEY22N6" // Pokud nepoužíváš Analytics, může být zakomentováno
+  apiKey: "AIzaSyBG0hjw1P94j6yNrTqMBBhdH2tS4ih-eus",
+  authDomain: "fir-synced-player-beta-3.firebaseapp.com",
+  projectId: "fir-synced-player-beta-3",
+  storageBucket: "fir-synced-player-beta-3.firebasestorage.app",
+  messagingSenderId: "187766629315",
+  appId: "1:187766629315:web:860df928701e658ee71376",
+  //measurementId: "G-LWYMHQNXPJ"
 };
 
 // Log pro potvrzení, že firebaseConfig byl načten
